@@ -121,7 +121,7 @@
 
                 <div class="col-md-4 mb-5">
                     <div class="card">
-                        <img src="{{url('img/sertifikat 2.jpg')}}" class="card-img-top" alt="sertifikat 1">
+                        <img src="{{url('img/sertifikat 3.jpg')}}" class="card-img-top" alt="sertifikat 1">
                         <div class="card-body">
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk
                                 of the card's content.</p>
@@ -170,7 +170,7 @@
 
                 <div class="col-md-4 mb-5">
                     <div class="card">
-                        <img src="{{url('img/sertifikat 2.jpg')}}" class="card-img-top" alt="sertifikat 1">
+                        <img src="{{url('img/sertifikat 3.jpg')}}" class="card-img-top" alt="sertifikat 1">
                         <div class="card-body">
                             <p class="card-text">Some quick example text to build on the card title and make up the bulk
                                 of the card's content.</p>
