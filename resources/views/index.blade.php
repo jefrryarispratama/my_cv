@@ -139,7 +139,7 @@
             </div>
 
 
-            <div class="row mb-3 justify-content-center">
+            <div class="row mb-3 justify-content-center text-center">
                 <div class="col-md-4 mb-5">
                     <div class="card">
                         <img src="{{url('img/sertifikat 3.jpg')}}" class="card-img-top" alt="sertifikat 1">
@@ -196,7 +196,7 @@
                 </div>
             </div>
 
-            <div class="row justify-content-center">
+            <div class="row justify-content-center ">
                 <div class="col-md-7">
                     <form>
                         <div class="mb-3">
