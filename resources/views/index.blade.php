@@ -69,16 +69,13 @@
             </div>
             <div class="row justify-content-center fs-6 text-center ">
                 <div class="col-md-5">
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam neque, aut, illum eius vero autem
-                        laboriosam aliquam harum dicta earum aperiam doloribus laborum odit tempora iusto adipisci quis
-                        sit suscipit.</p>
+                    <p>Nama saya Jefrry Arispratama lahir di kota Dabo Singkep. Berumur 19 Tahun yang sedang menepuh kuliah di Universitas Internasional Batam. </p>
                 </div>
 
                 <div class="col-md-5">
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ratione reiciendis fuga
-                        quod porro et eos autem sit. Ipsum vitae doloremque odit, suscipit deserunt tempora vero ea
-                        corrupti tempore ex.
+                        Disini saya bekerja sebagai seorang freelancer yang dimana mampu mengeksekusi sejumlah bahasa pemrograman seperti PHP,Javascript, dan lain sebagainya.
+                        
                     </p>
                 </div>
             </div>
@@ -107,13 +104,12 @@
                 </div>
             </div>
 
-            <div class="row mb-3 justify-content-center">
+            <div class="row mb-3 justify-content-center text-center">
                 <div class="col-md-4 mb-5">
                     <div class="card">
                         <img src="{{url('img/sertifikat 1.jpg')}}" class="card-img-top" alt="sertifikat 1">
                         <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the card's content.</p>
+                            <p class="card-text">Sertifikat pembelajaran</p>
                         </div>
                     </div>
 
@@ -123,8 +119,7 @@
                     <div class="card">
                         <img src="{{url('img/sertifikat 3.jpg')}}" class="card-img-top" alt="sertifikat 1">
                         <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the card's content.</p>
+                            <p class="card-text">Sertifikat pembelajaran</p>
                         </div>
                     </div>
 
@@ -134,8 +129,7 @@
                     <div class="card">
                         <img src="{{url('img/sertifikat 3.jpg')}}" class="card-img-top" alt="sertifikat 1">
                         <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the card's content.</p>
+                            <p class="card-text">Sertifikat pembelajaran</p>
                         </div>
                     </div>
 
@@ -150,8 +144,7 @@
                     <div class="card">
                         <img src="{{url('img/sertifikat 3.jpg')}}" class="card-img-top" alt="sertifikat 1">
                         <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the card's content.</p>
+                            <p class="card-text">Sertifikat pembelajaran</p>
                         </div>
                     </div>
 
@@ -161,8 +154,7 @@
                     <div class="card">
                         <img src="{{url('img/sertifikat 1.jpg')}}" class="card-img-top" alt="sertifikat 1">
                         <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the card's content.</p>
+                            <p class="card-text">Sertifikat pembelajaran</p>
                         </div>
                     </div>
 
@@ -172,8 +164,7 @@
                     <div class="card">
                         <img src="{{url('img/sertifikat 3.jpg')}}" class="card-img-top" alt="sertifikat 1">
                         <div class="card-body">
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk
-                                of the card's content.</p>
+                            <p class="card-text">Sertifikat pembelajaran</p>
                         </div>
                     </div>
 
